@@ -80,6 +80,6 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Ultimos artículos
 template: landing
 ---
