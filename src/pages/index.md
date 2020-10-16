@@ -5,9 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     title: Scabelum Gipuzkoa
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: 'Iniciativas para una sociedad más justa y libre. '
     actions:
       - label: Learn More
         url: /features
